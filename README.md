@@ -67,9 +67,9 @@ The dashboard is designed for **data analysts, road safety professionals, and re
 ## 👨‍💻 About the Developer
 
 **Abu Usama** – Data Analyst | Excel Enthusiast | Road Safety Advocate  
-Passionate about transforming raw data into valuable insights to improve road safety.
-
-🌍 Connect with me:
+Passionate about transforming raw data into valuable insights to improve road safety.  
+  
+🌍 Connect with me:  
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/UsamaMunawarr)[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abu--usama)[![YouTube](https://img.icons8.com/?size=50\&id=19318\&format=png)](https://www.youtube.com/@CodeBaseStats)[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/Usama__Munawar?t=Wk-zJ88ybkEhYJpWMbMheg&s=09)[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO)
 
 ---
