@@ -8,7 +8,7 @@ Here’s the README file tailored to your **Road Accident Dashboard** built usin
 
 Here’s a quick look at the **Road Accident Dashboard** built using **Microsoft Excel** 👇
 
-![Demo](path/to/your-demo-image-or-video.gif)
+![Demo](excel.gif)
 
 ---
 
